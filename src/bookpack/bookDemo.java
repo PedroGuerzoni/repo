@@ -1,0 +1,32 @@
+package bookpack;
+import mypackage1.book;
+import mypackage1.*;
+
+class bookDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//mypackage1.book b1 = new mypackage1.book("Java beginner", "Anonymous");
+		//b1.show();
+		booktype1 b = new booktype1("Java beginner", "Anonymous");
+		b.show1();
+	}
+
+}
+
+class booktype1 extends book{
+
+	public booktype1(String title, String author) {
+		super(title, author);
+		// TODO Auto-generated constructor stub
+	}
+	
+	 void show1() {
+		
+		super.show();
+		
+	}
+	
+	
+}
