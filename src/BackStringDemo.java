@@ -2,7 +2,6 @@
 public class BackStringDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		String x = "Pedro Figueiredo";
 		backString(x,0);
