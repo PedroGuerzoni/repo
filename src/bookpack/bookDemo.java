@@ -5,7 +5,6 @@ class bookDemo {
 
 	public static void main(String[] args) {
 
-		//mypackage1.book b1 = new mypackage1.book("Java beginner", "Anonymous");
 		booktype1 b = new booktype1("Java beginner", "Anonymous");
 		b.show1();
 	}
