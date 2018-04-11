@@ -15,7 +15,6 @@ class booktype1 extends book{
 
 	public booktype1(String title, String author) {
 		super(title, author);
-		// TODO Auto-generated constructor stub
 	}
 	
 	 void show1() {
