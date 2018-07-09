@@ -22,6 +22,6 @@ class booktype1 extends book{
 		super.show();
 		
 	}
-	
+	//lallalala
 	
 }
