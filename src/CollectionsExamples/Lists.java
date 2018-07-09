@@ -39,7 +39,7 @@ public class Lists {
 			
 		}
 
-//creating conflict
+//creating conflict //criando conflito 
 		
 /*		
 		ArrayList<String> al = new ArrayList<String>();
