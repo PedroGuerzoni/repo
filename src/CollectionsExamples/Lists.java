@@ -80,7 +80,7 @@ public class Lists {
 		str = al.toArray(str);
 		
 		Collections.reverse(al);
-
+ //lalala
 		
 		for(String x: al) {
 			
