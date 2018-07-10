@@ -10,7 +10,7 @@ public class Lists {
 		HashMap<Integer,String> hm = new HashMap<Integer,String>(); 
 		
 		//test1
-		
+		//heiaheuai
 		///lalala  hahaha EHIUAEHiuae pedro
 
 		hm.put(1,"A");
