@@ -5,7 +5,7 @@ public class Lists {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		// lallala
 		
 		HashMap<Integer,String> hm = new HashMap<Integer,String>(); 
 		
@@ -80,7 +80,7 @@ public class Lists {
 		str = al.toArray(str);
 		
 		Collections.reverse(al);
-
+ //lalala
 		
 		for(String x: al) {
 			
