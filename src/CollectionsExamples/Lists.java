@@ -6,7 +6,7 @@ public class Lists {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// lallala
-		
+		//uehauiheaiu
 		HashMap<Integer,String> hm = new HashMap<Integer,String>(); 
 		
 		//test1
