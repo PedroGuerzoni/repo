@@ -41,6 +41,8 @@ public class Lists {
 
 //creating conflict //criando conflito 
 		
+		
+		//mais um conflito
 /*		
 		ArrayList<String> al = new ArrayList<String>();
 		LinkedList<String> ll = new LinkedList<String>();
