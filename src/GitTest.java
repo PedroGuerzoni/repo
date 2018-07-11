@@ -1,4 +1,5 @@
 public class GitTest {
-//pedro
+//pedro teste
+
 	private String test  = "teste";
 }
