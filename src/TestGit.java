@@ -4,12 +4,3 @@ public class TestGit {
 	
 }
 
-//hahah
-//pedro
-
-
-//lol
-
-
-//lalala
-//uehaiuehaiu
